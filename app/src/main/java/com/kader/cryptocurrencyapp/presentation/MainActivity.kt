@@ -1,4 +1,4 @@
-package com.kader.cryptocurrencyapp
+package com.kader.cryptocurrencyapp.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
